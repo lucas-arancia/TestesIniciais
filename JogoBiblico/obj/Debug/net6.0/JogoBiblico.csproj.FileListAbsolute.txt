@@ -1,0 +1,15 @@
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\bin\Debug\net6.0\JogoBiblico.exe
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\bin\Debug\net6.0\JogoBiblico.deps.json
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\bin\Debug\net6.0\JogoBiblico.runtimeconfig.json
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\bin\Debug\net6.0\JogoBiblico.dll
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\bin\Debug\net6.0\JogoBiblico.pdb
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\JogoBiblico.csproj.AssemblyReference.cache
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\JogoBiblico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\JogoBiblico.AssemblyInfoInputs.cache
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\JogoBiblico.AssemblyInfo.cs
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\JogoBiblico.csproj.CoreCompileInputs.cache
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\JogoBiblico.dll
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\refint\JogoBiblico.dll
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\JogoBiblico.pdb
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\JogoBiblico.genruntimeconfig.cache
+C:\Code\ColocandoEmPratica\JogoBiblico\JogoBiblico\JogoBiblico\obj\Debug\net6.0\ref\JogoBiblico.dll
